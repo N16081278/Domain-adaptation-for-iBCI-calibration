@@ -1,6 +1,6 @@
 # Domain Adaptation of Transfer Learning for intracortical Brain-Computer Interface Calibration
 # 基於遷移學習之域適應實現侵入式腦機介面之模型校正方案
-## 作者: 王錦虔 Ogk；技術支援: 黃俊叡、邱柏雄
+## 作者: 王錦虔 Ogk
 ***
 # 數據集
 ## data: https://zenodo.org/record/583331
